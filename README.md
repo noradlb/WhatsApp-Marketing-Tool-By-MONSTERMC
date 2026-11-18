@@ -14,13 +14,7 @@
 
 # 
 
-# !\[Platform](https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?logo=windows)
-
-# !\[UI](https://img.shields.io/badge/UI-Modern%20Dark-22C55E)
-
-# !\[Languages](https://img.shields.io/badge/Interface-Arabic%20%7C%20English-blue)
-
-# !\[Status](https://img.shields.io/badge/status-available%20for%20purchase-success)
+# !\[Platform]([https://img.shields.io/badge/platform-Windows%2010%20%2F%2011-0078D6?logo=windows](https://i.ibb.co/8gDp4pCG/image.png))
 
 # 
 
